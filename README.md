@@ -66,12 +66,12 @@ The **Amazon Sales Report Analysis** project focuses on analyzing sales data to 
 
 ## Key Insights
 
-**Revenue Insights**:
-Categories like "Electronics" and "Home Essentials" contributed the most to overall revenue.
-Small-sized products had higher revenue shares in certain categories.
-**Customer Retention**:
-Monthly customer retention rates were consistent, showing steady engagement.
-**Fulfillment Method Efficiency**:
-Expedited shipping methods generated higher average revenue per order compared to standard shipping.
-**Seasonal Trends**:
-Sales peaked during festive seasons and holiday months.
+1. **Revenue Insights**
+- Categories like "Electronics" and "Home Essentials" contributed the most to overall revenue.
+- Small-sized products had higher revenue shares in certain categories.
+2. **Customer Retention**
+- Monthly customer retention rates were consistent, showing steady engagement.
+3. **Fulfillment Method Efficiency**
+- Expedited shipping methods generated higher average revenue per order compared to standard shipping.
+4. **Seasonal Trends**
+- Sales peaked during festive seasons and holiday months.
